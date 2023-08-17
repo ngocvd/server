@@ -1,0 +1,10 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --kiosk-printing --kiosk "http://localhost/url" --window-position=0,0 --window-size=1280,1024  --user-data-dir=:/temp/1
+
+mysqld --defaults-file=D:/server/bin/mysql/mysql-8.1.0-winx64/my.ini --initialize-insecure
+
+mysqld --defaults-file=D:/server/bin/mysql/mysql-8.1.0-winx64/my.ini
+
+
+
+
+
