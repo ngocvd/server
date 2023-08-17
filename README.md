@@ -1,4 +1,4 @@
-### Apache 2.4.57, PHP 8.2.9, MySQL 8.1.0 to d:/server, using mod_fcgid 
+### Apache 2.4.57, PHP 8.2.9, MySQL 8.1.0 to d:/server, using mod_fcgid, win32_x64 
 
 ### **Download release** and extract to D:\server folder.
 ### **Run:** 
